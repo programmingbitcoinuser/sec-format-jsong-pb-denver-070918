@@ -1,1 +1,0 @@
-{"stats": {"errors": 0, "failures": 0, "passes": 1, "skipped": 0, "encoding": "UTF-8", "total": 1}, "results": [{"classname": "index_test:S256Test", "name": "test_sec", "time": 0.2131960391998291, "type": "success"}]}
